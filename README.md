@@ -1,1 +1,1 @@
-# JuniorResearch2018
+# The Effect of Mislabeled Data on Neural Network Classification Accuracy
